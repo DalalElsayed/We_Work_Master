@@ -242,30 +242,30 @@ display: inline-block;
   }
 
   .card-one {
-    grid-column: 1/3;
+    grid-column: auto;
   }
 
   .card-two {
-    grid-column: 3/4;
+    grid-column:auto;
   }
 
   .card-three {
-    grid-column: 1/2;
+    grid-column: auto;
   }
 
   .card-four {
-    grid-column: 2/2;
+    grid-column: auto;
   }
 
   .card-five {
-    grid-column: 3/4;
+    grid-column: auto;
   }
 
   .card-six {
-    grid-column: 1/2;
+    grid-column: auto;
   }
 
   .card-seven {
-    grid-column: 2/4;
+    grid-column: auto;
   }
 }
